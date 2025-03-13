@@ -1,6 +1,6 @@
 ## SugarPop Mania
 
-**SugarPop Mania** is a dungeon exploration game built in Java, offering a lighthearted yet engaging experience. Inspired by the mechanics of Dungeon Mania, the game features interactive dungeon environments where players solve puzzles, collect treasures, and unlock new areas through strategic exploration and problem-solving.
+SugarPop Mania is a dungeon exploration game built in Java innspired by the mechanics of Dungeon Mania, the game features interactive dungeon environments where players solve puzzles, collect treasures, and unlock new areas through strategic exploration and problem-solving.
 
 ### Key Features:
 - **Dungeon Exploration**: Navigate through procedurally generated dungeons filled with puzzles and obstacles.
